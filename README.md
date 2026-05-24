@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharunkumar
-- 🌱 Microsoft Fabric Expert | Microsoft Power Platform Expert | 6X Microsoft Certified | Super User in Fabric Community
+- 🌱 Microsoft Fabric Expert | Microsoft Power Platform Expert | 8X Microsoft Certified | Super User in Fabric Community
 - 📫 How to reach me email: tharunkumarr98@gmail.com
 
 <!---
